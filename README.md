@@ -44,25 +44,25 @@ This app is designed to help individuals, professionals, and businesses collect 
 ## 🛠️ Tech Stack & Libraries Used
 
 ### **Backend & Database**
-- **Next.js** 
-- **MongoDB & Mongoose** 
-- **Aggregation Pipeline (MongoDB)** 
+- **Next.js**
+- **MongoDB & Mongoose**
+- **Aggregation Pipeline (MongoDB)**
 
 ### **Authentication & Security**
-- **NextAuth.js** 
-- **bcryptjs** 
+- **NextAuth.js**
+- **bcryptjs**
 
 ### **Validation & Parsing**
-- **Zod** 
-- **Regexr (Regex)** 
+- **Zod**
+- **Regexr (Regex)**
 
 ### **Email Integration**
-- **Resend Email Library** 
-- **React-Email Library** 
+- **Resend Email Library**
+- **React-Email Library**
 
 ### **Frontend & UI**
-- **ShadCN** 
-- **Tailwind CSS** 
+- **ShadCN**
+- **Tailwind CSS**
 
 ---
 
@@ -122,7 +122,4 @@ Visit `http://localhost:3000` to view the application.
 ---
 
 ## Authors
-
-- [VineshRajkumar](https://github.com/VineshRajkumar)
-
-
+* [Amit Niranjan](https://github.com/Amitniranjana)
